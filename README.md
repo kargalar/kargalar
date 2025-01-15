@@ -1,4 +1,4 @@
-<h1>Hi, I'm Professionnel🥵</h1>
+<h1>Hi, I'm Professional🥵</h1>
 <p>In addition to my incredibly superior intelligence and cognitive abilities, I am an engineering genius on a level that ordinary software developers can't even imagine.
 
 I'm currently developing mobile app with Flutter.</p>
